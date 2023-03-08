@@ -37,7 +37,7 @@ object Versions {
     const val okHttp = "4.2.2"
     const val retroMock = "1.1.0"
     const val composeVersion = "1.2.0-beta02"
-    const val androidxTestCore = "1.4.0"
+    const val androidxTestCore = "1.3.0"
     const val gradleSecrets = "2.0.1"
     const val kotlinSerialization = "1.4.1"
     const val browser = "1.4.0"
