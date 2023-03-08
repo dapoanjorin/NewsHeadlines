@@ -1,4 +1,4 @@
-# NewsHeadlines
+# [NewsHeadlines] (https://github.com/dapoanjorin/NewsHeadlines/blob/master/app-debug.apk)
 
 This is an Android app that displays the latest news headline fetched from a server API [News API](https://newsapi.org/v2/top-headlines?country=us).
 The app uses a single activity to display the headlines and provides offline accessibility.
