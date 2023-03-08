@@ -30,7 +30,7 @@ android {
 
 dependencies {
     implementation(project(BuildModule.REMOTE))
-    implementAll(Dependencies.cacheImplementation)
+    implementAll(Dependencies.databaseImplementation)
     testImplementAll(TestDependencies.cacheTestImplementation)
     testAndroidImplementAll(AndroidTestDependencies.cacheTestImplementation)
     kaptImplementAll(AnnotationProcessors.AnnotationProcessorsImplementation)

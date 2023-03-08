@@ -112,7 +112,7 @@ object Dependencies {
     )
 
 
-    val cacheImplementation = listOf(
+    val databaseImplementation = listOf(
         kotlinStandardLibrary,
         ktx,
         hiltAndroid,
